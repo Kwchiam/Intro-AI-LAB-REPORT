@@ -22,10 +22,10 @@ You can access the live deployed application here: **\[https://sd24040lab3.strea
 ## 📸 Screenshots Output
 
 **1. Full Scholarship Award**
-![Full Award 1](Screenshot%20output/Full%20award%201.png)
+![Full Award](Screenshot%20output/Full%20Award%202.png)
 
 **2. Partial Scholarship Award**
-![Partial Award 1](Screenshot%20output/Partial%20Award%202.png)
+![Partial Award](Screenshot%20output/Partial%20Award%202.png)
 
 
 ## 🛠️ Installation & Local Setup
