@@ -1,7 +1,7 @@
 # Neural Network Activation Functions Visualizer 🧠
 
 
-*(Add your actual Streamlit public URL to the badge link above)*
+*(https://sd24040lab4.streamlit.app/)*
 
 ## 📌 Project Overview
 
@@ -27,7 +27,7 @@ By allowing users to generate both linear and non-linear datasets (such as Moons
 
 ## 🚀 Live Demo
 
-You can access the live deployed application here: **\[Insert Your Streamlit URL Here\]**
+You can access the live deployed application here: **\[https://sd24040lab4.streamlit.app/]**
 
 ## 📸 Screenshots
 
@@ -40,8 +40,8 @@ To run this application locally on your machine, follow these instructions:
 1. **Clone the repository:**
 
    ```
-   git clone https://github.com/YourUsername/YourRepositoryName.git
-   cd YourRepositoryName
+   git clone https://sd24040lab4.streamlit.app/
+   cd Intro-AI-LAB-REPORT
    
    ```
 
@@ -56,13 +56,13 @@ To run this application locally on your machine, follow these instructions:
 3. **Run the Streamlit application:**
 
    ```
-   streamlit run StudentID_Lab4.py
+   streamlit run SD24040_Lab4.py
    
    ```
 
 ## 🗂️ Project Structure / Modules
 
-* `StudentID_Lab4.py`: The main Streamlit application script containing the UI, data generation, and MLP model training logic.
+* `SD24040_Lab4.py`: The main Streamlit application script containing the UI, data generation, and MLP model training logic.
 
 * `requirements.txt`: Contains all necessary Python dependencies (`streamlit`, `numpy`, `matplotlib`, `scikit-learn`) for deployment.
 
