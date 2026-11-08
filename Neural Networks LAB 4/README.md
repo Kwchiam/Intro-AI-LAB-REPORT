@@ -31,7 +31,14 @@ You can access the live deployed application here: **\[https://sd24040lab4.strea
 
 ## 📸 Screenshots
 
-*(Include 1-2 screenshots of your application here to demonstrate functionality, as required by the grading rubric.)*
+**1. ReLU Network**
+![ReLU Output](Screenshot%20Output/ReLU%20network.png)
+
+**2. Sigmoid Network**
+![Sigmoid Output](Screenshot%20Output/Sigmoid%20Network.png)
+
+**3. Tanh Network**
+![Tanh Output](Screenshot%20Output/Tanh%20Network.png)
 
 ## 🛠️ Installation & Local Setup
 
