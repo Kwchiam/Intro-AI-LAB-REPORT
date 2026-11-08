@@ -1,6 +1,6 @@
 # Scholarship Advisory Rule-Based System 🎓
 
-*(Insert your Streamlit app link here, e.g., https://your-lab3-app.streamlit.app/)*
+*(https://sd24040lab3.streamlit.app/)*
 
 ## 📌 Project Overview
 
@@ -17,18 +17,18 @@ Instead of manual screening, this Knowledge Representation System utilizes a **R
 
 ## 🚀 Live Demo
 
-You can access the live deployed application here: **\[Insert your Streamlit App Link here]**
+You can access the live deployed application here: **\[https://sd24040lab3.streamlit.app/]**
 
 ## 📸 Screenshots
 
 **1. Applicant Fact Input & Rule Editor**
-![Input Interface](Screenshot%20Output/App_Interface.png) *(Note: Replace with your actual screenshot path)*
+![Input Interface](Screenshot%20Output/Full_Award1.png) 
 
 **2. Decision Engine Output (Successful Award)**
-![Award Output](Screenshot%20Output/Award_Decision.png) *(Note: Replace with your actual screenshot path)*
+![Award Output](Screenshot%20Output/Partial_Award1.png) 
 
 **3. Decision Engine Output (Rejection)**
-![Reject Output](Screenshot%20Output/Reject_Decision.png) *(Note: Replace with your actual screenshot path)*
+![Reject Output](Screenshot%20Output/Reject_Decision.png) 
 
 ## 🛠️ Installation & Local Setup
 
@@ -38,7 +38,7 @@ To run this application locally on your machine, follow these instructions:
 
    ```bash
    git clone https://github.com/Kwchiam/Intro-AI-LAB-REPORT.git
-   cd "Intro-AI-LAB-REPORT/Rule Based System LAB 3"
+   cd "Intro-AI-LAB-REPORT/RBS LAB 3"
    ```
 
 2. **Install the required modules:**
@@ -53,8 +53,7 @@ To run this application locally on your machine, follow these instructions:
    ```bash
    python -m streamlit run SD24040_Lab3.py
    ```
-   *(Note: Adjust `SD24040_Lab3.py` to match your exact script name if different)*
-
+  
 ## 🗂️ Project Structure / Modules
 
 - `SD24040_Lab3.py`: The main Streamlit application script containing the UI, JSON parsing, and the priority-sorted rule evaluation engine.
