@@ -47,8 +47,8 @@ To run this application locally on your machine, follow these instructions:
 1. **Clone the repository:**
 
    ```
-   git clone https://sd24040lab4.streamlit.app/
-   cd Intro-AI-LAB-REPORT
+   git clone [https://github.com/Kwchiam/Intro-AI-LAB-REPORT.git](https://github.com/Kwchiam/Intro-AI-LAB-REPORT.git)
+   cd "Intro-AI-LAB-REPORT/Neural Networks LAB 4"
    
    ```
 
