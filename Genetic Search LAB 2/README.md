@@ -26,7 +26,11 @@ You can access the live deployed application here: **[https://sd24040ga.streamli
 
 ## 📸 Screenshots
 
-*(Include 1-2 screenshots of your application here to demonstrate functionality, such as the Convergence Graph and the GA Control Options sidebar, as required by the grading rubric.)*
+**1. Setup**
+![Setup](Screenshot%20output/Setup.png)
+
+**2. Convergence Graph**
+![Graph](Screenshot%20output/Graph.png)
 
 ## 🛠️ Installation & Local Setup
 
