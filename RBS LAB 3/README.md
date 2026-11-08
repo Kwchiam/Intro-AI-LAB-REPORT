@@ -19,12 +19,12 @@ Instead of manual screening, this Knowledge Representation System utilizes a **R
 
 You can access the live deployed application here: **\[https://sd24040lab3.streamlit.app/]**
 
-## 📸 Screenshots
+## 📸 Screenshots Output
 
-**1. Applicant Fact Input & Rule Editor**
-![Input Interface](Screenshot%20output/Full%20Award%201.png) 
+**1. Full Scholarship Award**
+![Full Award 1](Screenshot%20output/Full%20award%201.png)
 
-**2. Decision Engine Output (Successful Award)**
+**2. Partial Scholarship Award**
 ![Award Output](Screenshot%20output/Partial_Award_1.png) 
 
 **3. Decision Engine Output (Rejection)**
