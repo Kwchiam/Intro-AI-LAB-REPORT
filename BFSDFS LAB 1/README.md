@@ -10,7 +10,7 @@ An interactive, web-based educational tool designed to visualize **Breadth-First
 
 ## 🚀 Live Demo
 
-Access the deployed application here: **[Live Streamlit App](https://your-app-name.streamlit.app/)**
+Access the deployed application here: **[Live Streamlit App](https://dfsbfssd24040.streamlit.app/)**
 
 ![App Demo](screenshots/app_demo.png)
 
