@@ -22,7 +22,7 @@ You can access the live deployed application here: **\[https://sd24040lab3.strea
 ## 📸 Screenshots
 
 **1. Applicant Fact Input & Rule Editor**
-![Input Interface](Screenshot%20output/Full_Award_1.png) 
+![Input Interface](Screenshot%20output/Full%20Award%201.png) 
 
 **2. Decision Engine Output (Successful Award)**
 ![Award Output](Screenshot%20output/Partial_Award_1.png) 
