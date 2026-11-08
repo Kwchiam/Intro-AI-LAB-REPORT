@@ -25,10 +25,8 @@ You can access the live deployed application here: **\[https://sd24040lab3.strea
 ![Full Award 1](Screenshot%20output/Full%20award%201.png)
 
 **2. Partial Scholarship Award**
-![Award Output](Screenshot%20output/Partial_Award_1.png) 
+![Partial Award 1](Screenshot%20output/Partial%20Award%201.png)
 
-**3. Decision Engine Output (Rejection)**
-![Reject Output](Screenshot%20Output/Reject_Decision.png) 
 
 ## 🛠️ Installation & Local Setup
 
