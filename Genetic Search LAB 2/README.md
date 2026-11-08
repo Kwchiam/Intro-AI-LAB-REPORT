@@ -27,10 +27,10 @@ You can access the live deployed application here: **[https://sd24040ga.streamli
 ## 📸 Screenshots
 
 **1. Setup**
-![Setup](Screenshot%20output/Setup.png)
+![Setup](Screenshot%20Output/Setup.png)
 
 **2. Convergence Graph**
-![Graph](Screenshot%20output/Graph.png)
+![Graph](Screenshot%20Output/Graph.png)
 
 ## 🛠️ Installation & Local Setup
 
