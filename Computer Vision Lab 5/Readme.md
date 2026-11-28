@@ -5,8 +5,8 @@
 **Topic:** Chapter 5 – Computer Vision (Lab Report 5)  
 
 ## Live Demo
-- **Deployed Streamlit App:** `[Insert Your Streamlit Community Cloud URL Here]`
-- **Author:** `[Your Full Name]` (`[Your Student ID]`)
+- **Deployed Streamlit App:** `[https://lab5sd24040.streamlit.app/]`
+- **Author:** `[CHIAM KHAI WEN]` (`[SD24040]`)
 
 ---
 
@@ -22,7 +22,7 @@ This repository contains a CPU-based Computer Vision web application built using
 
 ## Repository Structure
 ```text
-├── StudentID_Lab5.py      # Main Streamlit web application
+├── SD24040_Lab5.py      # Main Streamlit web application
 ├── requirements.txt       # Python dependencies for deployment
 ├── screenshots/           # Folder for test result screenshots
 └── README.md              # Project documentation
@@ -34,8 +34,8 @@ This repository contains a CPU-based Computer Vision web application built using
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/Kwchiam.git
+   cd Intro-AI-LAB-REPORT
    ```
 
 2. **Install the required dependencies:**
@@ -45,7 +45,7 @@ This repository contains a CPU-based Computer Vision web application built using
 
 3. **Run the Streamlit application:**
    ```bash
-   streamlit run StudentID_Lab5.py
+   streamlit run SD24040_Lab5.py
    ```
 
 ---
