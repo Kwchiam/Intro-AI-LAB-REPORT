@@ -61,6 +61,6 @@ This repository contains a CPU-based Computer Vision web application built using
 ## Sample Screenshots
 > *Replace the placeholders below with actual screenshots from your running application to complete your documentation.*
 
-| Test Case 1 | Test Case 2 |
-| :---: | :---: |
-| ![Test 1](screenshots/test1.png) | ![Test 2](screenshots/test2.png) |
+| Test Case 1 (Dog) | Test Case 2 (Otter) | Test Case 3 (Tower) |
+| :---: | :---: | :---: |
+| ![Test 1](Screenshot%20Output/Dog.png) | ![Test 2](Screenshot%20Output/Otter.png) | ![Test 3](Screenshot%20Output/Tower.png) |
